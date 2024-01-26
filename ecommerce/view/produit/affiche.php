@@ -1,0 +1,1 @@
+<h1><?=$produit['nom'] ?> <?=$produit['descritpion'] ?> <?=$produit['photo'] ?> <?=$produit['prix'] ?></h1>
